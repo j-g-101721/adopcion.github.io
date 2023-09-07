@@ -1,0 +1,22 @@
+﻿section 
+{
+    background-color: blue;
+    color: darkkhaki;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+   
+body {
+    background-image: url(fondo.JPG);
+}
+h1 {
+    border: 3px solid blue;
+    
+}
+div {
+    text-align: center;
+    color: black;
+    font-size: 50px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
